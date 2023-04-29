@@ -1,2 +1,2 @@
-# parser_iz
-Парсер новостей IZ
+# parser_ria
+Парсер новостей RIA
